@@ -13,4 +13,4 @@ Azka Noreen here. Student at PUCIT pursuing BS Software Engineering.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azkanoreen&theme=dark-smoky&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
