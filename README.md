@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-**azkaNoreen/azkaNoreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Azka Noreen here. Student at PUCIT pursuing BS Software Engineering.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
