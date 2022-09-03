@@ -4,7 +4,7 @@
 Azka Noreen here. Student at PUCIT pursuing BS Software Engineering.
 
 🧐ABOUT ME🚀
-- 🔭 I’m currently working on Anndroid(JAVA)
+- 🔭 I’m currently working on Android(JAVA)
 - 🌱 Loves to Learn new things.
 - 🤔 Ready to help others.
 - ⚡ Teacher Assistant
