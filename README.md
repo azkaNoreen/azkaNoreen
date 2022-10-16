@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Azka Noreen here. Student at PUCIT pursuing BS Software Engineering.
+Azka Noreen here, student of PUCIT pursuing BS Software Engineering.
 
 🧐ABOUT ME🚀
 - 🔭 I’m continuously working on kowing and improving myself.
