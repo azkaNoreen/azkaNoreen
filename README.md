@@ -9,7 +9,6 @@ Azka Noreen here, student of PUCIT pursuing BS Software Engineering.
 - ⚡ Like to create android apps.
 - 🤔 Eager to know more about python and automation.
 - 🌱 Loves to Learn new things.
-- 🤔 Ready to help others.
 - ⚡ Teacher Assistant
 - 🌱 Last but most interesting, Doing Freelancing too.Yeah!!
 
