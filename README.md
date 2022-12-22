@@ -38,10 +38,7 @@ Azka Noreen, Gold medalist here :), Final Year student of PUCIT(now FCIT) pursui
 
 <b>Profile Views</b><br>
    ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-   ## Contribution Graph
 
-[![Samiullahsaleem's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azkanoreen&theme=rogue)](https://github.com/azkanoreen)
-   
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <a href="https://github.com/azkanoreen">
