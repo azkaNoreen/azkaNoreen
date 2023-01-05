@@ -11,6 +11,8 @@ Azka Noreen, Gold medalist here :), Final Year student of PUCIT(now FCIT) pursui
 - ⚡ Teacher Assistant
 - 🌱 Last but most interesting, Doing Freelancing too.Yeah!!!
 
+Love to interact with others and exploring the new things.
+
 <hr>
 🔥 Github Analytics :
 
